@@ -50,8 +50,6 @@
 
 ## Projects
 
-![Projects](https://via.placeholder.com/1200x300.png?text=My+Projects)
-
 - **[Project 1](#):** Description of a project where you used multiple technologies.
 - **[Project 2](#):** Another project showcasing your skills in data engineering.
 - **[Project 3](#):** Highlight a project involving complex data pipelines or cloud integrations.
@@ -63,4 +61,4 @@
 ![Contact](https://via.placeholder.com/1200x200.png?text=Let's+Connect)
 
 - [LinkedIn](#)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:juan.vargas_velez@uao.edu.co)
