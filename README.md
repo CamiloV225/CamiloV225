@@ -1,4 +1,6 @@
-# Hi there, I'm Juan Camilo Vargas 👋
+# Hi there, I'm [Your Name] 👋
+
+![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
 
 ### Data Engineer | Python & SQL Enthusiast
 
@@ -16,13 +18,21 @@
 
 ## Technologies & Tools
 
-![Technologies](https://via.placeholder.com/1200x200.png?text=Python+|+SQL+|+MongoDB+|+Vue+|+Azure+|+Docker)
+### Languages:
+![Python](https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+<!-- Add similar badges for other languages here -->
 
-- **Languages:** Python, SQL, R, HTML, CSS
-- **Databases:** MongoDB, SQL
-- **Frameworks & Libraries:** Vue, Sk-Learn
-- **Cloud & DevOps:** Azure, Docker, Apache Kafka, Airflow
-- **Tools:** Visual Studio Code, Linux
+### Databases:
+<!-- Add badges for MongoDB, SQL, etc. -->
+
+### Frameworks & Libraries:
+<!-- Add badges for Vue, Sk-Learn, etc. -->
+
+### Cloud & DevOps:
+<!-- Add badges for Azure, Docker, Apache Kafka, Airflow, etc. -->
+
+### Tools:
+<!-- Add badges for Visual Studio Code, Linux, etc. -->
 
 ---
 
@@ -42,4 +52,5 @@
 
 - [LinkedIn](#)
 - [Email](mailto:your-email@example.com)
+
 
