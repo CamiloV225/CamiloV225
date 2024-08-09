@@ -1,7 +1,5 @@
 # Hi there, I'm Juan Camilo Vargas 👋
 
-![Header](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
-
 ### Data Engineer | Python & SQL Enthusiast
 
 ---
