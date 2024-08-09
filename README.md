@@ -51,7 +51,7 @@
 ## Projects
 
 - **[ProyectoFincaraiz](https://github.com/CamiloV225/ProyectoFincaraiz):** Description of a project where you used multiple technologies.
-- **[Project 2](#):** Another project showcasing your skills in data engineering.
+- **[Soccer_project](https://github.com/CamiloV225/soccer_project):** Another project showcasing your skills in data engineering.
 - **[Project 3](#):** Highlight a project involving complex data pipelines or cloud integrations.
 
 ---
