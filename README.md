@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**CamiloV225/CamiloV225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Juan Camilo Vargas
+### Data Science and AI Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Final-year college student.
+- 💻 Passionate about Data Science and Artificial Intelligence.
+- 🔍 Actively seeking internship opportunities. Check out my [resume](#)!
+
+---
+
+## Technologies
