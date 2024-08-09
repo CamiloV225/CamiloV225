@@ -52,7 +52,7 @@
 
 - **[ProyectoFincaraiz](https://github.com/CamiloV225/ProyectoFincaraiz):** Using Selenium to scrap all of the apartments in city of Cali-Colombia.
 - **[Soccer_project](https://github.com/CamiloV225/soccer_project):** Using Airflow to create a ETL pipeline to extract all of the information of soccer players in transfermarkt.
-- **[Project 3](#):** (THINKING WHAT TO PUT HERE)
+- **[BBS-71](https://github.com/SPinzon12/bbs71_git):** A project design to be an website with a real-time schedule, wich includes Backend (Database, API and Logging interface) and Frontend (Web page, Dashboard and Hosting)
 
 ---
 
