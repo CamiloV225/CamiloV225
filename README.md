@@ -48,7 +48,7 @@
 
 ---
 
-## Projects
+## Main Projects
 
 - **[ProyectoFincaraiz](https://github.com/CamiloV225/ProyectoFincaraiz):** Using Selenium to scrap all of the apartments in city of Cali-Colombia.
 - **[Soccer_project](https://github.com/CamiloV225/soccer_project):** Using Airflow to create a ETL pipeline to extract all of the information of soccer players in transfermarkt.
