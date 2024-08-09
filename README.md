@@ -59,4 +59,4 @@
 ## Get in touch
 
 - [LinkedIn](#)
-- [Email](mailto:juan.vargas_velez@uao.edu.co)
+- [Gmail](mailto:juan.vargas_velez@uao.edu.co)
