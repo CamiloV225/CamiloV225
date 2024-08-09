@@ -50,15 +50,13 @@
 
 ## Projects
 
-- **[ProyectoFincaraiz](https://github.com/CamiloV225/ProyectoFincaraiz):** Description of a project where you used multiple technologies.
-- **[Soccer_project](https://github.com/CamiloV225/soccer_project):** Another project showcasing your skills in data engineering.
-- **[Project 3](#):** Highlight a project involving complex data pipelines or cloud integrations.
+- **[ProyectoFincaraiz](https://github.com/CamiloV225/ProyectoFincaraiz):** Using Selenium to scrap all of the apartments in city of Cali-Colombia.
+- **[Soccer_project](https://github.com/CamiloV225/soccer_project):** Using Airflow to create a ETL pipeline to extract all of the information of soccer players in transfermarkt.
+- **[Project 3](#):** (THINKING WHAT TO PUT HERE)
 
 ---
 
 ## Get in touch
-
-![Contact](https://via.placeholder.com/1200x200.png?text=Let's+Connect)
 
 - [LinkedIn](#)
 - [Email](mailto:juan.vargas_velez@uao.edu.co)
